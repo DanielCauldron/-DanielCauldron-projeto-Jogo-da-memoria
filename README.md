@@ -1,5 +1,5 @@
 # -DanielCauldron-projeto-Jogo-da-memoria
-#Projeto de estudo
+## Projeto de estudo
 ## Criando um Jogo da memória com Emojis Utilizando JavaScprit
 
 Neste código simples em JavaScript, eu criei um jogo de memória usando emojis. Aqui está o que cada parte faz:
