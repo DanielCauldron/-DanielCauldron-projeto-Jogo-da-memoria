@@ -17,6 +17,6 @@ Eu começo escolhendo emojis e duplicando-os em um array chamado emojis. Estes e
 * **Condição de vitória:** Após cada verificação, eu redefino o array openCards. Se todas as peças tiverem sido combinadas (todas têm a classe "boxMatch"), exibo um alerta indicando que o jogador venceu o jogo.
   
  ## Este código é uma implementação simples de um jogo de memória em JavaScript, usando manipulação do DOM e eventos de clique para interação com o usuário.
- [Clique aqui]( ).
+ [Clique aqui](https://danielcauldron.github.io/-DanielCauldron-projeto-Jogo-da-memoria/ ).
 
 
